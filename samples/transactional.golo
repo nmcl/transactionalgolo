@@ -13,4 +13,10 @@ function main = |args| {
 
 	 let transaction = AtomicAction()
 
+	 transaction: begin()
+
+	 println("Created transaction "+transaction: get_uid())
+
+	 transaction: commit()
+
 }
