@@ -1,0 +1,3 @@
+The test(s) in this directory basically check that we have all of the right java libraries to build a local transaction.
+
+Maybe these could be junit tests. Later ...

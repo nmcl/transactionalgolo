@@ -1,0 +1,1 @@
+export CLASSPATH=../lib/arjuna-5.0.4.Final-SNAPSHOT.jar:../lib/txoj-5.0.4.Final-SNAPSHOT.jar:../lib/common-5.0.4.Final-SNAPSHOT.jar:../lib/jboss-logging.jar:../etc:$CLASSPATH

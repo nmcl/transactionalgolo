@@ -1,0 +1,1 @@
+When we eventually move to maven this directory will vanish.
