@@ -1,5 +1,4 @@
 import com.arjuna.ats.arjuna.AtomicAction;
-import com.arjuna.ats.arjuna.coordinator.BasicAction;
 
 public class AtomicActionTest
 {
